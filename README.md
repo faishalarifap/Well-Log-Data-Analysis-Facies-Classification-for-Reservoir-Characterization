@@ -3,7 +3,7 @@ This project focuses on well log data analysis and rock facies classification mo
 
 Berikut adalah draf lengkap untuk file README.md Anda dalam dua bahasa (Bahasa Indonesia dan Bahasa Inggris). Anda bisa menyalin teks ini langsung ke repository GitHub Anda.
 
-🛢️ #Well Log Analysis & Reservoir Identification
+🛢️ # Well Log Analysis & Reservoir Identification
 [Bahasa Indonesia version below]
 
 🇬🇧 English Version
@@ -21,7 +21,7 @@ Visualization: visualizing well logs to observe trends in formation properties.
 
 Reservoir Interpretation: Applies petrophysical logic to identify "Pay Zones".
 
-💡 #The "Golden Rule"
+💡 # The "Golden Rule"
 The analysis focuses on identifying zones that meet specific criteria for economic potential:
 
 "Look for zones where Gamma Ray is low (Clean Sand), Resistivity is high (Hydrocarbon indication), and Porosity is high (Storage capacity). That is where we are most likely to find economic oil reserves."
@@ -44,7 +44,7 @@ Upload your dataset (e.g., facies_data2.csv) when prompted or ensure it is in th
 
 Run the cells sequentially to perform the analysis.
 
-#🇮🇩
+# 🇮🇩
 #Gambaran Proyek
 Proyek ini adalah alur kerja petrofisika komputasi yang dirancang untuk menganalisis data well log (log sumur) dan mengidentifikasi zona yang berpotensi mengandung hidrokarbon. Menggunakan Python, notebook ini memproses data geologi (Gamma Ray, Resistivitas, Porositas, dll) untuk mengevaluasi kualitas reservoir dan membedakan berbagai fasies batuan.
 
@@ -59,7 +59,7 @@ Visualisasi: Menampilkan grafik well logs untuk mengamati tren properti formasi.
 
 Interpretasi Reservoir: Menerapkan logika petrofisika untuk mengidentifikasi "Pay Zones".
 
-💡 #The "Golden Rule" (Aturan Emas)
+💡 # The "Golden Rule" (Aturan Emas)
 Analisis ini berfokus pada pencarian zona yang memenuhi kriteria potensi ekonomi:
 
 "Cari zona di mana Gamma Ray rendah (Pasir Bersih/Clean Sand), Resistivitas tinggi (Indikasi Hidrokarbon), dan Porositas juga tinggi (Kapasitas Penyimpanan). Itulah titik di mana kita kemungkinan besar menemukan cadangan minyak yang ekonomis."
@@ -73,7 +73,7 @@ NumPy: Untuk komputasi numerik.
 
 Matplotlib & Seaborn: Untuk pembuatan plot statis dan visualisasi data.
 
-#Cara Penggunaan
+# Cara Penggunaan
 Clone repository ini.
 
 Buka Faisal_Well_Log_Analysis.ipynb di Jupyter Notebook atau Google Colab.
